@@ -16,7 +16,5 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RafaelGoulartB/proffy?color=774DD6">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
-  <a href="https://github.com/Vinicios00?tab=stars">
-    <img alt="Stargazers" src="https://github.com/Vinicios00?tab=stars">
-  </a>
+  
 </p>
