@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIluvIvmkyLdm09gIm3r1Xvg6PZd2weBLAjPUHkDhfCDXWi-Qbz5Gfou2ihBrC2BoE-Ys&usqp=CAU" alt="Proffy" width="280"/>
+   <img src="https://avatars.githubusercontent.com/u/85353226?v=4" alt="Proffy" width="280"/>
 </p>
 
 <p align="center">	
