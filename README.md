@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://beacons.ai/Vinicios00">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicios00&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicios00&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicios00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicios00&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
