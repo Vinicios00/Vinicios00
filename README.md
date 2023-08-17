@@ -1,7 +1,7 @@
 ## Opa, eu sou o Vini!
 
-- 💻 Dando início ao mundo da programação.
-- 🗂 Estudando python, C#, html, e css.
+- 💻 Tec. Desenvolvimento de Sistemas.
+- 🗂 Futuro Eng. Software
 - 👨🏻‍🎓 Pronouns: ele/dele.
 
 <div>
